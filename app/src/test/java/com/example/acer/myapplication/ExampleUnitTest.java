@@ -1,4 +1,4 @@
-package com.example.acer.tugas;
+package com.example.acer.myapplication;
 
 import org.junit.Test;
 

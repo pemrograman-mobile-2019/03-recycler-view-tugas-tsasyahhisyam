@@ -1,4 +1,4 @@
-package com.example.acer.tugas;
+package com.example.acer.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.acer.tugas", appContext.getPackageName());
+        assertEquals("com.example.acer.myapplication", appContext.getPackageName());
     }
 }
