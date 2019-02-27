@@ -1,4 +1,4 @@
-package com.example.acer.myapplication;
+package com.example.acer.tugasrecyclerview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.acer.myapplication", appContext.getPackageName());
+        assertEquals("com.example.acer.tugasrecyclerview", appContext.getPackageName());
     }
 }
